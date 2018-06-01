@@ -23,7 +23,7 @@ Some study books for programmer.
 
 * [500 line or less 中文翻译计划。](https://github.com/HT524/500LineorLess_CN)
 
-### other Courses
+### other courses
 * [哈里斯堡社区大学公开课：统计学入门](http://open.163.com/special/opencourse/statistics.html)
 
 * [线性代数的本质](https://www.bilibili.com/video/av6731067)
